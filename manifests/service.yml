@@ -4,7 +4,7 @@ metadata:
     name: app1
     namespace: app1
 spec:
-    type: ClusterIP
+    type: LoadBalancer
     ports:
     - port: 80 
     selector:
