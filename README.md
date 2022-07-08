@@ -1,2 +1,5 @@
-# gitops-demo-app1
-A simple GitOps demo containing application source and manifests
+# Sample App 1
+
+A simple repo containing application source and manifests. Used for GitOps demos.
+
+See [GitOps Demo](https://github.com/davidxw/gitops-demo-infra) for more details
